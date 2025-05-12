@@ -1,0 +1,14 @@
+                         g   g   g   g   g   g   g  VD  VD  VD  VD  VD  VD
+                       g   f   f   f   f   f   f   g  VD  VD  VD  VD  VD  
+                     g   f   e   e   e   e   e   f   g  VD  VD  VD  VD    
+                   g   f   e   d   d   d   d   e   f   g  VD  VD  VD      
+                 g   f   e   d   c   c   c   d   e   f   g  VD  VD        
+               g   f   e   d   c   b   b   c   d   e   f   g  VD          
+             g   f   e   d   c   b   a   b   c   d   e   f   g            
+          VD   g   f   e   d   c   b   b   c   d   e   f   g              
+        VD  VD   g   f   e   d   c   c   c   d   e   f   g                
+      VD  VD  VD   g   f   e   d   d   d   d   e   f   g                  
+    VD  VD  VD  VD   g   f   e   e   e   e   e   f   g                    
+  VD  VD  VD  VD  VD   g   f   f   f   f   f   f   g                      
+VD  VD  VD  VD  VD  VD   g   g   g   g   g   g   g                        
+

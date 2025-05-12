@@ -1,0 +1,42 @@
+                                    g_1   g_1   g_1   g_1   g_1   g_1   g_1    VD    VD    VD    VD    VD    VD
+                                 g_1   f_1   f_1   f_1   f_1   f_1   f_1   g_1    VD    VD    VD    VD    VD   
+                              g_1   f_1   e_1   e_1   e_1   e_1   e_1   f_1   g_1    VD    VD    VD    VD      
+                           g_1   f_1   e_1   d_1   d_1   d_1   d_1   e_1   f_1   g_1    VD    VD    VD         
+                        g_1   f_1   e_1   d_1   c_1   c_1   c_1   d_1   e_1   f_1   g_1    VD    VD            
+                     g_1   f_1   e_1   d_1   c_1   b_1   b_1   c_1   d_1   e_1   f_1   g_1    VD               
+                  g_1   f_1   e_1   d_1   c_1   b_1   a_1   b_1   c_1   d_1   e_1   f_1   g_1                  
+                VD   g_1   f_1   e_1   d_1   c_1   b_1   b_1   c_1   d_1   e_1   f_1   g_1                     
+             VD    VD   g_1   f_1   e_1   d_1   c_1   c_1   c_1   d_1   e_1   f_1   g_1                        
+          VD    VD    VD   g_1   f_1   e_1   d_1   d_1   d_1   d_1   e_1   f_1   g_1                           
+       VD    VD    VD    VD   g_1   f_1   e_1   e_1   e_1   e_1   e_1   f_1   g_1                              
+    VD    VD    VD    VD    VD   g_1   f_1   f_1   f_1   f_1   f_1   f_1   g_1                                 
+ VD    VD    VD    VD    VD    VD   g_1   g_1   g_1   g_1   g_1   g_1   g_1                                    
+
+                                    g_2   g_2   g_2   g_2   g_2   g_2   g_2    VD    VD    VD    VD    VD    VD
+                                 g_2   f_2   f_2   f_2   f_2   f_2   f_2   g_2    VD    VD    VD    VD    VD   
+                              g_2   f_2   e_2   e_2   e_2   e_2   e_2   f_2   g_2    VD    VD    VD    VD      
+                           g_2   f_2   e_2   d_2   d_2   d_2   d_2   e_2   f_2   g_2    VD    VD    VD         
+                        g_2   f_2   e_2   d_2   c_2   c_2   c_2   d_2   e_2   f_2   g_2    VD    VD            
+                     g_2   f_2   e_2   d_2   c_2   b_2   b_2   c_2   d_2   e_2   f_2   g_2    VD               
+                  g_2   f_2   e_2   d_2   c_2   b_2   a_2   b_2   c_2   d_2   e_2   f_2   g_2                  
+                VD   g_2   f_2   e_2   d_2   c_2   b_2   b_2   c_2   d_2   e_2   f_2   g_2                     
+             VD    VD   g_2   f_2   e_2   d_2   c_2   c_2   c_2   d_2   e_2   f_2   g_2                        
+          VD    VD    VD   g_2   f_2   e_2   d_2   d_2   d_2   d_2   e_2   f_2   g_2                           
+       VD    VD    VD    VD   g_2   f_2   e_2   e_2   e_2   e_2   e_2   f_2   g_2                              
+    VD    VD    VD    VD    VD   g_2   f_2   f_2   f_2   f_2   f_2   f_2   g_2                                 
+ VD    VD    VD    VD    VD    VD   g_2   g_2   g_2   g_2   g_2   g_2   g_2                                    
+
+                                    g_3   g_3   g_3   g_3   g_3   g_3   g_3    VD    VD    VD    VD    VD    VD
+                                 g_3   f_3   f_3   f_3   f_3   f_3   f_3   g_3    VD    VD    VD    VD    VD   
+                              g_3   f_3   e_3   e_3   e_3   e_3   e_3   f_3   g_3    VD    VD    VD    VD      
+                           g_3   f_3   e_3   d_3   d_3   d_3   d_3   e_3   f_3   g_3    VD    VD    VD         
+                        g_3   f_3   e_3   d_3   c_3   c_3   c_3   d_3   e_3   f_3   g_3    VD    VD            
+                     g_3   f_3   e_3   d_3   c_3   b_3   b_3   c_3   d_3   e_3   f_3   g_3    VD               
+                  g_3   f_3   e_3   d_3   c_3   b_3   a_3   b_3   c_3   d_3   e_3   f_3   g_3                  
+                VD   g_3   f_3   e_3   d_3   c_3   b_3   b_3   c_3   d_3   e_3   f_3   g_3                     
+             VD    VD   g_3   f_3   e_3   d_3   c_3   c_3   c_3   d_3   e_3   f_3   g_3                        
+          VD    VD    VD   g_3   f_3   e_3   d_3   d_3   d_3   d_3   e_3   f_3   g_3                           
+       VD    VD    VD    VD   g_3   f_3   e_3   e_3   e_3   e_3   e_3   f_3   g_3                              
+    VD    VD    VD    VD    VD   g_3   f_3   f_3   f_3   f_3   f_3   f_3   g_3                                 
+ VD    VD    VD    VD    VD    VD   g_3   g_3   g_3   g_3   g_3   g_3   g_3                                    
+

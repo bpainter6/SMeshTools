@@ -1,0 +1,23 @@
+                                                                  R01   R01   R01   R01   R01   R01   R01   R01   R01   R01   R01   R01   VOI   VOI   VOI   VOI   VOI   VOI   VOI   VOI   VOI   VOI   VOI
+                                                               R01   R02   R02   R02   R02   R02   R02   R02   R02   R02   R02   R02   R01   VOI   VOI   VOI   VOI   VOI   VOI   VOI   VOI   VOI   VOI   
+                                                            R01   R02   R03   R03   R03   R03   R03   R03   R03   R03   R03   R03   R02   R01   VOI   VOI   VOI   VOI   VOI   VOI   VOI   VOI   VOI      
+                                                         R01   R02   R03   R04   R04   R04   R04   R04   R04   R04   R04   R04   R03   R02   R01   VOI   VOI   VOI   VOI   VOI   VOI   VOI   VOI         
+                                                      R01   R02   R03   R04   R05   R05   R05   R05   R05   R05   R05   R05   R04   R03   R02   R01   VOI   VOI   VOI   VOI   VOI   VOI   VOI            
+                                                   R01   R02   R03   R04   R05   F06   F06   F06   F06   F06   F06   F06   R05   R04   R03   R02   R01   VOI   VOI   VOI   VOI   VOI   VOI               
+                                                R01   R02   R03   R04   R05   F06   F07   F07   F07   F07   F07   F07   F06   R05   R04   R03   R02   R01   VOI   VOI   VOI   VOI   VOI                  
+                                             R01   R02   R03   R04   R05   F06   F07   F08   F08   F08   F08   F08   F07   F06   R05   R04   R03   R02   R01   VOI   VOI   VOI   VOI                     
+                                          R01   R02   R03   R04   R05   F06   F07   F08   F09   F09   F09   F09   F08   F07   F06   R05   R04   R03   R02   R01   VOI   VOI   VOI                        
+                                       R01   R02   R03   R04   R05   F06   F07   F08   F09   F10   F10   F10   F09   F08   F07   F06   R05   R04   R03   R02   R01   VOI   VOI                           
+                                    R01   R02   R03   R04   R05   F06   F07   F08   F09   F10   F11   F11   F10   F09   F08   F07   F06   R05   R04   R03   R02   R01   VOI                              
+                                 R01   R02   R03   R04   R05   F06   F07   F08   F09   F10   F11   F12   F11   F10   F09   F08   F07   F06   R05   R04   R03   R02   R01                                 
+                              VOI   R01   R02   R03   R04   R05   F06   F07   F08   F09   F10   F11   F11   F10   F09   F08   F07   F06   R05   R04   R03   R02   R01                                    
+                           VOI   VOI   R01   R02   R03   R04   R05   F06   F07   F08   F09   F10   F10   F10   F09   F08   F07   F06   R05   R04   R03   R02   R01                                       
+                        VOI   VOI   VOI   R01   R02   R03   R04   R05   F06   F07   F08   F09   F09   F09   F09   F08   F07   F06   R05   R04   R03   R02   R01                                          
+                     VOI   VOI   VOI   VOI   R01   R02   R03   R04   R05   F06   F07   F08   F08   F08   F08   F08   F07   F06   R05   R04   R03   R02   R01                                             
+                  VOI   VOI   VOI   VOI   VOI   R01   R02   R03   R04   R05   F06   F07   F07   F07   F07   F07   F07   F06   R05   R04   R03   R02   R01                                                
+               VOI   VOI   VOI   VOI   VOI   VOI   R01   R02   R03   R04   R05   F06   F06   F06   F06   F06   F06   F06   R05   R04   R03   R02   R01                                                   
+            VOI   VOI   VOI   VOI   VOI   VOI   VOI   R01   R02   R03   R04   R05   R05   R05   R05   R05   R05   R05   R05   R04   R03   R02   R01                                                      
+         VOI   VOI   VOI   VOI   VOI   VOI   VOI   VOI   R01   R02   R03   R04   R04   R04   R04   R04   R04   R04   R04   R04   R03   R02   R01                                                         
+      VOI   VOI   VOI   VOI   VOI   VOI   VOI   VOI   VOI   R01   R02   R03   R03   R03   R03   R03   R03   R03   R03   R03   R03   R02   R01                                                            
+   VOI   VOI   VOI   VOI   VOI   VOI   VOI   VOI   VOI   VOI   R01   R02   R02   R02   R02   R02   R02   R02   R02   R02   R02   R02   R01                                                               
+VOI   VOI   VOI   VOI   VOI   VOI   VOI   VOI   VOI   VOI   VOI   R01   R01   R01   R01   R01   R01   R01   R01   R01   R01   R01   R01                                                                  
