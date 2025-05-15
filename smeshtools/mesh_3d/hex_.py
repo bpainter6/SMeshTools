@@ -8,12 +8,12 @@ Created on Tue May  6 23:54:24 2025
 import numpy as np
 import shapely
 from copy import deepcopy
-from smeshtools.hextools import hex_text_to_arr
+from smeshtools.text.hex_ import hex_text_to_arr
 from shapely import Polygon,GeometryCollection
-from vectorScribe.objects.scribes import Template,Data_scribe
+from vectorScribe.objects.scribes import Template, Data_scribe
 from scipy.spatial import KDTree
 
-class _Hex_3D:
+class _Hex_3d:
     """
     Base Object for working with hexagonal meshes.
     
@@ -143,14 +143,14 @@ class _Hex_3D:
         self.int_dlt_pairs  = int_dlt_pairs
         self.int_area_pairs = int_area_pairs
 
-class Hex_mesh_3D(_Hex_3D):
+class Hex_mesh_3d(_Hex_3d):
     """
     Object for working with 3D hexagonal meshes
     
     """
     pass
 
-class Hex_channel(_Hex_3D):
+class Hex_channel(_Hex_3d):
     """
     Object for working with hexagonal meshes composed of "channels"
     
